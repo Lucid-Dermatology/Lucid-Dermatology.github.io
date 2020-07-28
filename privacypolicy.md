@@ -1,3 +1,3 @@
-# Retrieval Module
+# Privacy Policy
 
-Current repository contains code for data retrieval
+Lucid Dermatology Privacy Policy
