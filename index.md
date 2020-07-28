@@ -1,4 +1,4 @@
-# Lucid Dermatology
+### Lucid Dermatology
 
-Coming soon...
-
+* [Privacy Policy](https://lucid-dermatology.github.io/privacypolicy)
+* [Conditions of use](https://lucid-dermatology.github.io/conditionofuse)
