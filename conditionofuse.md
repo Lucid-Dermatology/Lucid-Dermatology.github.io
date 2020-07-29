@@ -1,3 +1,5 @@
+##Effective as of August 1, 2020
+
 ### Terms of Use
 
 These Terms of Use (this “Agreement”) is a legal agreement between you (“you”) and Lucid Dermatology, Inc., a Delaware corporation (“Company,” “we” or “us”) for use of the Lucid Dermatology mobile application, the servers used by the application, the computer files stored on such servers, and all related services, features and content offered by the Company (collectively, the “App”). This Agreement is not concluded with Apple, Inc., any of its subsidiaries, Google, Inc., any of its subsidiaries, or any other entity as may apply.
@@ -95,8 +97,6 @@ From time to time and without prior notice to you, we may change, expand, and im
 You agree to defend, indemnify, and hold the Company, its officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your violation of this Agreement.
 
 ### 17. Miscellaneous
-Any dispute arising from this Agreement shall be governed by the laws of the State of California without regard to its conflict of law provisions. SOLE AND EXCLUSIVE JURISDICTION FOR ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL BE IN AN APPROPRIATE STATE OR FEDERAL COURT LOCATED IN SAN FRANCISCO COUNTY, STATE OF CALIFORNIA AND THE PARTIES UNCONDITIONALLY WAIVE THEIR RESPECTIVE RIGHTS TO A JURY TRIAL.
-
 Any cause of action you may have with respect to your use of the App must be commenced within one (1) year after the claim or cause of action arises.
 
 If for any reason a court of competent jurisdiction finds any provision of this Agreement, or a portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of this Agreement, and the remainder of this Agreement shall continue in full force and effect. A printed version of this Agreement shall be admissible in judicial or administrative proceedings.
