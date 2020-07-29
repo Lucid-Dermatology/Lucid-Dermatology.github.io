@@ -73,3 +73,41 @@ The Company controls and operates the App from various locations and makes no re
 
 ### 10. Limitation of liability
 **IN NO EVENT SHALL THE COMPANY, ITS OFFICERS, DIRECTORS, AGENTS, AFFILIATES, EMPLOYEES, ADVERTISERS, OR DATA PROVIDERS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA) WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), EQUITY OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THIS APP. IN NO EVENT WILL THE COMPANY’S TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE APP EXCEED THE AMOUNTS YOU HAVE PAID TO THE COMPANY FOR USE OF THE APP OR ONE HUNDRED DOLLARS ($100) IF YOU HAVE NOT HAD ANY PAYMENT OBLIGATIONS TO THE COMPANY, AS APPLICABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. THE COMPANY, OR ANY THIRD PARTIES MENTIONED ON THE APP ARE NOT LIABLE FOR ANY PERSONAL INJURY, INCLUDING DEATH, CAUSED BY YOUR USE OR MISUSE OF THE APP.**
+
+### 11. Use of mobile devices
+Please note that your carrier’s normal rates and fees, such as text messaging and data charges, will still apply if you are using the App on a mobile device.
+
+### 12. Third-Party Services
+The App may give you access to links to third-party websites, apps, or other products or services (“Third Party Services”). The Company does not control Third Party Services in any manner and, accordingly, does not assume any liability associated with such Third Party Services. You need to take appropriate steps to determine whether accessing a Third Party Service is appropriate, including protecting your personal information and privacy in using any such Third Party Services and complying with relevant agreements.
+
+### 13. Your feedback
+We welcome your feedback about the App. Unless otherwise expressly declared, any communications you send to us or publish in app stores are deemed to be submitted on a non-confidential basis. You agree that we may decide to publicize such contents at our own discretion. You agree to authorize us to make use of such contents for free, and revise, modify, adjust and change contextually, or make any other changes as we deem appropriate.
+
+### 14. Enforcement rights
+We are not obligated to monitor access or use of the App. However, we reserve the right to do so for purposes of operating and maintaining the App, ensuring your compliance with this Agreement, and complying with applicable legal requirements. We may disclose unlawful conduct to law enforcement authorities, and pursuant to valid legal process, we may cooperate with law enforcement authorities to prosecute users who violate the law. We reserve the right (but are not required) to remove or disable any content posted to the App or access to App at any time and without notice, and at our sole discretion if we determine in our sole discretion that your content or use of the App is objectionable or in violation this Agreement.
+
+The Company has no liability or responsibility to users of the App or any other person or entity for performance or nonperformance of the aforementioned activities.
+
+### 15. Changes to the App
+From time to time and without prior notice to you, we may change, expand, and improve the App. We may also, at any time, cease to continue operating part or all of the App or selectively disable certain features of the App. Your use of the App does not entitle you to the continued provision or availability of the App. Any modification or elimination of the App or any particular features will be done in our sole and absolute discretion and without an ongoing obligation or liability to you.
+
+### 16. Indemnity
+You agree to defend, indemnify, and hold the Company, its officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your violation of this Agreement.
+
+### 17. Miscellaneous
+Any dispute arising from this Agreement shall be governed by the laws of the State of California without regard to its conflict of law provisions. SOLE AND EXCLUSIVE JURISDICTION FOR ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL BE IN AN APPROPRIATE STATE OR FEDERAL COURT LOCATED IN SAN FRANCISCO COUNTY, STATE OF CALIFORNIA AND THE PARTIES UNCONDITIONALLY WAIVE THEIR RESPECTIVE RIGHTS TO A JURY TRIAL.
+
+Any cause of action you may have with respect to your use of the App must be commenced within one (1) year after the claim or cause of action arises.
+
+If for any reason a court of competent jurisdiction finds any provision of this Agreement, or a portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of this Agreement, and the remainder of this Agreement shall continue in full force and effect. A printed version of this Agreement shall be admissible in judicial or administrative proceedings.
+
+No waiver of by the Company of any term or condition set forth in this Agreement shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under this Agreement shall not constitute a waiver of such right or provision. If any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of this Agreement will continue in full force and effect.
+
+Upon termination, all provisions of this Agreement, which, by their nature, should survive termination, shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability.
+
+All claims between the parties related to this Agreement will be litigated individually, and the parties will not consolidate or seek class treatment for any claim unless previously agreed to in writing by the parties.
+
+We may refuse service, close Accounts, and change eligibility requirements at any time.
+
+### 18.Questions and comments
+If you have any comments or questions on any part of the App or any part of these Terms of Use, require support, or have any claims, please contact us at **support@lucidderm.com**.
