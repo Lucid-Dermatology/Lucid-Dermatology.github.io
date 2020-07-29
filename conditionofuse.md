@@ -1,4 +1,4 @@
-##Effective as of August 1, 2020
+## Effective as of August 1, 2020
 
 ### Terms of Use
 
