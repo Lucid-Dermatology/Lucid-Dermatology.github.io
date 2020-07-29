@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-When you use Lucid App, you are trusting us with intimate personal information. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at **support@lucidderm.com***
+When you use Lucid App, you are trusting us with intimate personal information. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at **support@lucidderm.com**
 
 When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -100,16 +100,15 @@ Vendors, Consultants and Other Third-Party Service Providers. We may share your 
   
 We only share and disclose your information with the following third parties. We have categorized each party so that you may easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us at **support@lucidderm.com**.
 
-*   Cloud Computing Services
+*   Cloud Computing Services.
     Amazon Web Services (AWS)
-*   User Account Registration and Authentication
+*   User Account Registration and Authentication.
     Firebase Authentication
-*   Web and Mobile Analytics
+*   Web and Mobile Analytics.
     Google Analytics for Firebase
-*   Website Performance Monitoring
+*   Website Performance Monitoring.
     Firebase Crash Reporting and Firebase Performance Monitoring
-*   Website Testing
-    TestFlight
+*   TestFlight
 
 ### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 **In Short:**  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
