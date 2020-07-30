@@ -597,6 +597,10 @@ footer small {
 .external-links {
 	color: #0095f7;
 }
+.external-email-links {
+	color: #ffffff;
+	font-weight: bold;
+}
 
 /* ==============================================
    9. Media Queries
