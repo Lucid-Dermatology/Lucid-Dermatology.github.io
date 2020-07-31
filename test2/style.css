@@ -44,7 +44,17 @@
 	10. Media Queries
 
    //////////////////////////*/
+.myDiv {
+	/* border: 5px outset red; */
+	background-color: rgb(230, 173, 187);
+	/* text-align: center; */
+  }
 
+.centerTestAliak {
+	/* padding: 70px 0; */
+	border: 3px solid green;
+	text-align: center;
+}
 
 body {
 	font-family: 'Roboto', sans-serif;
