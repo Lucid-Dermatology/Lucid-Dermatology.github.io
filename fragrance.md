@@ -14,5 +14,4 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * [Hydroxycitronellal](https://luciddermatology.com/synonyms/Hydroxycitronellal)
 * [Isoeugenol](https://luciddermatology.com/synonyms/Isoeugenol)
 
-So, our algorithm checks 65 chemical names when user selected **Fragrance Mix**. Algorithm marks product as "unsafe" in case of any of chemicals (or synonyms) were found. 
-
+So, our algorithm checks 65 chemical names when the user selected **Fragrance Mix**. Algorithms mark products as “unsafe” in case any of chemicals (or synonyms) were found.
