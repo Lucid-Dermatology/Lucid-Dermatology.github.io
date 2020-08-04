@@ -1,0 +1,10 @@
+        "eugenol",
+        "4-Allylguaiacol",
+        "Eugenic acid",
+        "Allylguaiacol",
+        "Caryophyllic acid",
+        "p-Allylguaiacol",
+        "p-Eugenol",
+        "Engenol",
+        "Synthetic eugenol",
+        "Eugenolum"

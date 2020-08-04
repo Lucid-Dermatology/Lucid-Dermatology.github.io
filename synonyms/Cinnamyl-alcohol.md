@@ -1,0 +1,12 @@
+        "cinnamyl alcohol",
+        "cinnamic alcohol",
+        "Zimtalcohol",
+        "Styryl carbinol",
+        "Styrone",
+        "Styryl alcohol",
+        "cinnamic alcohol",
+        "cinnamylalcohol",
+        "Styrylcarbinol",
+        "Cinnamylalcohol",
+        "Phenylallyl alcohol",
+        "Chnnamyl alcohol"

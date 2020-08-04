@@ -1,0 +1,13 @@
+        "GERANIOL",
+        "Lemonol",
+        "Geranyl alcohol",
+        "geraniol",
+        "Guaniol",
+        "t-geraniol",
+        "2E-geraniol",
+        "Geraniol",
+        "Meranol",
+        "Neraniol",
+        "b-Geraniol",
+        "Geraniol",
+        "Geraniol natural"
