@@ -4,6 +4,7 @@ The purpose of this document is to demonstrate how Lucid Dermatology App perform
  
 When a user selects **Fragrance Mix**, our algorithm recognizes products as **UNSAFE** if the product has at least one of the following ingredients or at least one synonym of the following chemicals. (You can see list of synonyms for each chemical by clicking on it name)
 
+#### Chemical names related to Fragrance Mix
 * Fragrance
 * [a-Amylcinnamaldehyde](https://luciddermatology.com/synonyms/Amylcinnamaldehyde)
 * [Cinnamaldehyde](https://luciddermatology.com/synonyms/Cinnamaldehyde)
@@ -13,5 +14,5 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * [Hydroxycitronellal](https://luciddermatology.com/synonyms/Hydroxycitronellal)
 * [Isoeugenol](https://luciddermatology.com/synonyms/Isoeugenol)
 
-So, our algorithm check 65 chemical names when user selected **Fragrance Mix**, and mark product as "unsafe" in case of any of chemicals were found.
+So, our algorithm checks 65 chemical names when user selected **Fragrance Mix**. Algorithm marks product as "unsafe" in case of any of chemicals (or synonyms) were found. 
 
