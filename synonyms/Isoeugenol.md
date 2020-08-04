@@ -1,3 +1,2 @@
         "Isoeugenol",
-        "Propenylgualacol",
-        "Propenylguaiacol"
+        "Propenylgualacol"
