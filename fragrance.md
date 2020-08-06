@@ -15,6 +15,7 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * [Isoeugenol](https://luciddermatology.com/synonyms/Isoeugenol)
 * Trimethylbenzenepropanol
 * Benzyl Alcohol
+* Benzoic Acid
 * Ethylene Brassylate
 * Hexyl Acetate
 * Methyldihydrojasmonate
@@ -73,3 +74,12 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * Kephalis
 * Methyl Phenylbutanol
 * Oxacyclohexadecenone
+* Pentanoic Acid
+* Butanoic Acid
+* Citrus Grandis
+* Citrus Limon
+* Methyl Decenol
+* Propanoic Acid
+* Tricyclodecenyl Propionate
+* Ambroxan
+* Cyclamen Aldehyde
