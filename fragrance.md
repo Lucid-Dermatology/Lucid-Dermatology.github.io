@@ -2,7 +2,7 @@
 
 The purpose of this document is to demonstrate how Lucid Dermatology App performs product recommendation if user selected **Fragrance Mix** allergen.
  
-When a user selects **Fragrance Mix**, our algorithm recognizes products as **UNSAFE** if the product has at least one of the following ingredients or at least one synonym of the following chemicals. (You can see list of synonyms for each chemical by clicking on it name)
+When a user selects **Fragrance Mix**, our algorithm recognizes products as **UNSAFE** if the product has at least one of the following chemicals or at least one synonym of the following chemicals. (You can see list of synonyms for each chemical by clicking on it name).
 
 #### Chemical names related to Fragrance Mix
 * Fragrance
@@ -14,11 +14,19 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * [Hydroxycitronellal](https://luciddermatology.com/synonyms/Hydroxycitronellal)
 * [Isoeugenol](https://luciddermatology.com/synonyms/Isoeugenol)
 * Trimethylbenzenepropanol
+* Benzyl Alcohol
 * Ethylene Brassylate
+* Hexyl Acetate
+* Methyldihydrojasmonate
+* Phenylisohexanol
 * Isopropyl Myristate
+* Citronellol
 * Dipropylene Glycol
 * Oxacyclohexadec-12-en-2-one
 * Linalyl Acetate
+* Allyl Caproate
+* Benzyl Salicylate
+* Cyclopropanecarboxylic Acid
 * 2,6-Dimethyl-7-Octen-2-Ol
 * Cis-2-Tert-Butylcyclohexyl Acetate
 * Tetramethyl Acetyloctahydronaphthalenes
@@ -50,6 +58,18 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * Grapefruit Oil
 * Terpineol
 * Methylbenzyl Acetate
-
-
-So, our algorithm checks **104 chemical names** when the user selected **Fragrance Mix**. Algorithms mark products as “unsafe” in case any of chemicals (or synonyms) were found.
+* Verdyl Acetate
+* Citrus Aurantium Dulcis
+* Triethyl Citrate
+* Gamma-Undecalactone
+* Dimethyl Phenethyl Butyrate
+* Hexyl Salicylate
+* Isobutyl Methyl Tetrahydropyranol
+* Gamma-Decalactone
+* Dihydrocitronellol
+* Hexamethylindanopyran
+* Orange Oil Terpenes
+* Pentadecalactone
+* Kephalis
+* Methyl Phenylbutanol
+* Oxacyclohexadecenone
