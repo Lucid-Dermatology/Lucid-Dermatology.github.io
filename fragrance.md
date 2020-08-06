@@ -13,5 +13,43 @@ When a user selects **Fragrance Mix**, our algorithm recognizes products as **UN
 * [Geraniol](https://luciddermatology.com/synonyms/Geraniol)
 * [Hydroxycitronellal](https://luciddermatology.com/synonyms/Hydroxycitronellal)
 * [Isoeugenol](https://luciddermatology.com/synonyms/Isoeugenol)
+* Trimethylbenzenepropanol
+* Ethylene Brassylate
+* Isopropyl Myristate
+* Dipropylene Glycol
+* Oxacyclohexadec-12-en-2-one
+* Linalyl Acetate
+* 2,6-Dimethyl-7-Octen-2-Ol
+* Cis-2-Tert-Butylcyclohexyl Acetate
+* Tetramethyl Acetyloctahydronaphthalenes
+* Ethylene Dodecanedioate
+* Limonene
+* Isoamyl Allylglycolate
+* Allyl Cyclohexyloxyacetate
+* Tetrahydrolinalool
+* Butylphenyl Methylpropional
+* Coumarin
+* Linalool
+* Cedrus Atlantica Bark Oil
+* Lavandula Hybrida Oil
+* Trimethylcyclopentenyl Dimethylisopentenol
+* 2-t-Butylcyclohexyl Acetate
+* Ethyl Linalool
+* Phenoxyethyl Isobutyrate
+* Heliotropine
+* Hexyl Cinnamal
+* Alpha-Isomethyl Ionone
+* Methyl Ionone
+* Benzyl Acetate
+* Citronellyl Acetate
+* Dimethylbenzyl Carbinyl Acetate
+* Hexyl Propionate
+* Phenethyl Alcohol
+* Ethylacetoacetate Ethylene Glycol Ketal
+* Hexahydro-Methanoindenyl Propionate
+* Grapefruit Oil
+* Terpineol
+* Methylbenzyl Acetate
 
-So, our algorithm checks 65 chemical names when the user selected **Fragrance Mix**. Algorithms mark products as “unsafe” in case any of chemicals (or synonyms) were found.
+
+So, our algorithm checks **104 chemical names** when the user selected **Fragrance Mix**. Algorithms mark products as “unsafe” in case any of chemicals (or synonyms) were found.
