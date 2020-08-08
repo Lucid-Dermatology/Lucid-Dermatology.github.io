@@ -5,6 +5,8 @@ The purpose of this document is to demonstrate how Lucid Dermatology App perform
 When a user selects **Fragrance Mix**, our algorithm recognizes products as **UNSAFE** if the product has at least one of the following chemicals or at least one synonym of the following chemicals. (You can see list of synonyms for each chemical by clicking on it name).
 
 #### Chemical names related to Fragrance Mix
+List is derrived based on [Allergic Contact Dermatitis to Fragrances](https://www.sciencedirect.com/science/article/abs/pii/S073386352030019X?via%3Dihub) research paper.
+
 * Fragrance
 * [a-Amylcinnamaldehyde](https://luciddermatology.com/synonyms/Amylcinnamaldehyde)
 * [Cinnamaldehyde](https://luciddermatology.com/synonyms/Cinnamaldehyde)
